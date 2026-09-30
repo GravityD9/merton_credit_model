@@ -42,7 +42,7 @@ A machine learning-driven underwriting scorecard that evaluates private and midd
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/GravityD9/merton_credit_model
+   git clone https://github.com/GravityD9/merton_credit_model.git
    cd merton_credit_model
 
 2. Create and activate a virtual environment
